@@ -1,0 +1,18 @@
+{
+  "name": "import-json-to-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "add": "node app_add.js",
+    "show": "node app_show.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.9"
+  }
+}
